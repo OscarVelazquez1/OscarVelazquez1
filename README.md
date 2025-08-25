@@ -2,7 +2,7 @@
   Hola soy Oscar Velazquez. 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-Soy un apasionado estudiante de Matemáticas Aplicadas en UAM Cuajimalpa, enfocado en adquirir y aplicar habilidades clave en Data Analytics, Data Science. Actualmente, estoy en busca de oportunidades donde pueda demostrar mis competencias y crecer junto a un equipo de trabajo dinámico y enfocado en la innovación.
+Soy un apasionado estudiante de Matemáticas Aplicadas en la UAM Cuajimalpa, con experiencia en Data Analytics y Data Science. Actualmente desempeño un puesto en el área, lo que me ha permitido aplicar y consolidar mis habilidades, pero sigo en constante búsqueda de oportunidades que me impulsen a crecer profesionalmente, aportar valor y desarrollarme dentro de equipos dinámicos e innovadores.
 
 ---
 
